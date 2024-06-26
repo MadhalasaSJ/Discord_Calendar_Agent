@@ -48,6 +48,9 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
         }
 
 
+
+
+
 ## Usage
   1. Run the bot:
       ```bash
