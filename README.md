@@ -57,24 +57,27 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
         python bot.py
 
 2. Use the following commands in Discord to interact with the bot:
+   ![Alt text](images/screenshot1.png)
 
       i. Create an event:
     
           
           !create_event "Team Meeting" "2024-06-27T9:00:00" "2024-06-27T10:00:00" "Discuss project updates"
+   ![Alt text](images/screenshot2.png)
           
      ii. Update an event:
 
    
         
           !update_event "Team Meeting" "2024-06-28T9:30:00" "2024-06-28T11:00:00" "Discuss revised project updates"
-    
+    ![Alt text](images/screenshot3.png)
     
     iii. Delete an event:
 
    
         
         !delete_event "Team Meeting"
+   ![Alt text](images/screenshot4.png)
 
 ## Project Structure
 
