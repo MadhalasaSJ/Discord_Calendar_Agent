@@ -1,4 +1,4 @@
-# Discord_AI_Agent
+# Discord_Calendar_Agent
 This project is a Discord bot that integrates with Google Calendar to manage events. It allows users to create, update, and delete events from a Google Calendar directly through Discord commands.
 
 ## Features
@@ -17,8 +17,8 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Discord_AI_Agent.git
-   cd Discord_AI_Agent
+   git clone https://github.com/yourusername/Discord_Calendar_Agent.git
+   cd Discord_Calendar_Agent
 
 
 2. Create and activate a virtual environment:
@@ -81,7 +81,7 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
 
 ## Project Structure
 
-Discord_AI_Agent/
+Discord_Calendar_Agent/
 
 │
 
