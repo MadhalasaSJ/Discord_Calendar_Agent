@@ -39,6 +39,8 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
       Add your Google Calendar API credentials in a credentials.json file in the root directory of your project.
 
 5.Create a config.json file in the root directory with the following structure:
+
+
     ```bash
         {
             "google_calendar": {
@@ -46,8 +48,6 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
             },
             "Event_BOT": "your_discord_bot_token"
         }
-
-
 
 
 
