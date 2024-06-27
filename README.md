@@ -107,11 +107,13 @@ Discord_Calendar_Agent/
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
+- Composio dev community
+  
 - Discord.py developers and community
 
 - Google Cloud Platform and Google Calendar API developers
 
-- Composio dev community
+
 
 
 
