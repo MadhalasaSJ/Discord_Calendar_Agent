@@ -11,7 +11,9 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
 
 - Python 3.8 or higher
 - A Discord bot token
+- Composio API Integrations(GITHUB & GOOGLE CALENDAR)
 - Google Calendar API credentials
+
 
 ## Installation
 
