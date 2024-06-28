@@ -1,5 +1,5 @@
 # Discord_Calendar_Agent
-This project is a Discord bot that integrates with Google Calendar to manage events. It allows users to create, update, and delete events from a Google Calendar directly through Discord commands.
+This project is a Discord bot that integrates with Google Calendar to manage events. It allows users to create, update, and delete events from a Google Calendar directly through Discord commands. Based on your local timezone the event is created on Google Calendar.
 
 ## Features
 
@@ -52,6 +52,9 @@ This project is a Discord bot that integrates with Google Calendar to manage eve
         }
 
 
+## Composio LangChain Integration
+
+Composio LangChain offers seamless integration with LangChain tools, providing robust capabilities for managing and interacting with various applications such as Google Calendar. This allows for efficient scheduling, updating, and deletion of calendar events, enhancing automation and productivity in projects. Additionally, Composio CrewAI leverages these integrations to empower AI agents to perform complex tasks autonomously, streamlining workflows and improving overall efficiency.
 
 ## Usage
   1. Run the bot:
