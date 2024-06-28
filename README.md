@@ -1,6 +1,13 @@
 # Discord_Calendar_Agent
 This project is a Discord bot that integrates with Google Calendar to manage events. It allows users to create, update, and delete events from a Google Calendar directly through Discord commands. Based on your local timezone the event is created on Google Calendar.
 
+
+## Demo Video
+Here is a quick demo of the project:
+
+[![Watch the demo on Loom](https://via.placeholder.com/560x315.png?text=Watch+the+demo+on+Loom)](https://www.loom.com/share/d227c5a2798946c1872add886d24e493?sid=a4453c1f-2be7-42e6-84ef-b006aa373ffa)
+
+
 ## Features
 
 - Create events in Google Calendar from Discord.
